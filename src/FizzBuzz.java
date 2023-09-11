@@ -1,5 +1,6 @@
 /**
  * Solve the FizzBuzz challenge.
+ * new edit to pull for demo
  */
 class FizzBuzz {
 
